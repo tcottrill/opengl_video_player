@@ -1,6 +1,6 @@
-# MP4 OpenGL Video + XAudio2 Audio Player
+# MP4/MKV OpenGL Video + XAudio2 Audio Player
 
-A high-performance MP4 video player written in C++ using:
+A high-performance MP4/MKV and others! video player written in C++ using:
 
 - **OpenGL** (via GLFW + GLEW) for rendering H.264 video frames
 - **XAudio2** for playback of AAC audio (resampled as needed)
